@@ -1,0 +1,16 @@
+CLINIC VISIT SORTER — NURSE SUMMARY
+All students remain in the queue. Nurse review is required.
+
+Total visits: 20
+Priority counts:
+  see_now: 3
+  today: 17
+  routine: 0
+
+Category counts:
+  allergy: 2
+  fever_cold: 2
+  injury: 3
+  other: 6
+  pain: 5
+  stomach: 2
